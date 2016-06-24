@@ -1,0 +1,12 @@
+c:\users\daniel.ashcraft\documents\visual studio 2015\Projects\Vendor_Image_Parser\Vendor_Image_Parser\bin\Debug\Vendor_Image_Parser.exe.config
+c:\users\daniel.ashcraft\documents\visual studio 2015\Projects\Vendor_Image_Parser\Vendor_Image_Parser\bin\Debug\Vendor_Image_Parser.exe
+c:\users\daniel.ashcraft\documents\visual studio 2015\Projects\Vendor_Image_Parser\Vendor_Image_Parser\bin\Debug\Vendor_Image_Parser.pdb
+c:\users\daniel.ashcraft\documents\visual studio 2015\Projects\Vendor_Image_Parser\Vendor_Image_Parser\obj\Debug\Vendor_Image_Parser.csprojResolveAssemblyReference.cache
+c:\users\daniel.ashcraft\documents\visual studio 2015\Projects\Vendor_Image_Parser\Vendor_Image_Parser\obj\Debug\Vendor_Image_Parser.Form1.resources
+c:\users\daniel.ashcraft\documents\visual studio 2015\Projects\Vendor_Image_Parser\Vendor_Image_Parser\obj\Debug\Vendor_Image_Parser.Properties.Resources.resources
+c:\users\daniel.ashcraft\documents\visual studio 2015\Projects\Vendor_Image_Parser\Vendor_Image_Parser\obj\Debug\Vendor_Image_Parser.csproj.GenerateResource.Cache
+c:\users\daniel.ashcraft\documents\visual studio 2015\Projects\Vendor_Image_Parser\Vendor_Image_Parser\obj\Debug\Vendor_Image_Parser.exe
+c:\users\daniel.ashcraft\documents\visual studio 2015\Projects\Vendor_Image_Parser\Vendor_Image_Parser\obj\Debug\Vendor_Image_Parser.pdb
+c:\users\daniel.ashcraft\documents\visual studio 2015\Projects\Vendor_Image_Parser\Vendor_Image_Parser\bin\Debug\log4net.dll
+c:\users\daniel.ashcraft\documents\visual studio 2015\Projects\Vendor_Image_Parser\Vendor_Image_Parser\bin\Debug\log4net.xml
+c:\users\daniel.ashcraft\documents\visual studio 2015\Projects\Vendor_Image_Parser\Vendor_Image_Parser\obj\Debug\Vendor_Image_Parser.csproj.ResolveComReference.cache
